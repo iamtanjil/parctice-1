@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, yellow);
+    font-size: 29px;
+    color: black;
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-weight: 400;
+}
+.home-container{
+    display: inline-flex;
+    margin-top: 40px;
+}
+.home-title{
+    padding-left: 50px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.text{
+    color: orange;
+}
+.home-subtitle{
+    height: 30%;
+    width: 35%;
+    margin-top: 170px;
+    margin-left: -469px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.link-button{
+    padding-left: 50px;
+    margin-top: 30px;
+}
+.home-image{
+    height: 40%;
+    width: 40%;
+    margin-left: 800px;
+    margin-top: -420px;
+}
+#home{
+    background-image: url();
+}
